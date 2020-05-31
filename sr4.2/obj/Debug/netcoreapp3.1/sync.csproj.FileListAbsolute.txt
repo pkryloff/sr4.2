@@ -1,0 +1,12 @@
+/Users/pkryloff/Projects/sr4.2/sr4.2/bin/Debug/netcoreapp3.1/sync.deps.json
+/Users/pkryloff/Projects/sr4.2/sr4.2/bin/Debug/netcoreapp3.1/sync.runtimeconfig.json
+/Users/pkryloff/Projects/sr4.2/sr4.2/bin/Debug/netcoreapp3.1/sync.runtimeconfig.dev.json
+/Users/pkryloff/Projects/sr4.2/sr4.2/bin/Debug/netcoreapp3.1/sync.dll
+/Users/pkryloff/Projects/sr4.2/sr4.2/bin/Debug/netcoreapp3.1/sync.pdb
+/Users/pkryloff/Projects/sr4.2/sr4.2/obj/Debug/netcoreapp3.1/sync.csprojAssemblyReference.cache
+/Users/pkryloff/Projects/sr4.2/sr4.2/obj/Debug/netcoreapp3.1/sync.csproj.CoreCompileInputs.cache
+/Users/pkryloff/Projects/sr4.2/sr4.2/obj/Debug/netcoreapp3.1/sync.AssemblyInfoInputs.cache
+/Users/pkryloff/Projects/sr4.2/sr4.2/obj/Debug/netcoreapp3.1/sync.AssemblyInfo.cs
+/Users/pkryloff/Projects/sr4.2/sr4.2/obj/Debug/netcoreapp3.1/sync.dll
+/Users/pkryloff/Projects/sr4.2/sr4.2/obj/Debug/netcoreapp3.1/sync.pdb
+/Users/pkryloff/Projects/sr4.2/sr4.2/obj/Debug/netcoreapp3.1/sync.genruntimeconfig.cache
